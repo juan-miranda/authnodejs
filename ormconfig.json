@@ -2,9 +2,9 @@
    "type": "mysql",
    "host": "localhost",
    "port": 3306,
-   "username": "root",
-   "password": "",
-   "database": "node",
+   "username": "uhghxvbcnberx",
+   "password": "panda9411",
+   "database": "dbo8vtlgktz0ic",
    "synchronize": true,
    "logging": false,
    "entities": [
